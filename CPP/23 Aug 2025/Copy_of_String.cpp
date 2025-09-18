@@ -1,0 +1,37 @@
+#include <iostream>
+using namespace std;
+#include <string.h>
+
+// int main()
+// {
+//     char str1[20];
+//     char str2[50];
+//     strcpy(str2, str1);
+//     cout << str2;
+// }
+
+//WITHOUT USING PREDEFINED FUNC.
+
+void user_strcpy(char*,char*);
+int main()
+{
+    char str1[20];
+    char str2[50];
+
+    cout << "Enter First String:\n";
+    cin >> str1;
+
+    user_strcpy(str2, str1);
+    cout << "Copied String is:" << str2;
+}
+
+void user_strcpy(char*s2, char*s1)
+{
+    while(*s1!= '\0')
+    {
+        *s2 = *s1;
+        s1++;
+        s2++;
+    }
+    *s2 = '\0';
+}
