@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery .load() Demo</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+    <button id="loadBtn">Load Content</button>
+    <div id="contentArea">Initial content...</div>
+
+    <script>
+        $("#loadBtn").click(function() {
+            $("#contentArea").load("sample.txt"); 
+        });
+    </script>
+
+</body>
+</html>
