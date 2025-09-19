@@ -1,0 +1,40 @@
+<html>
+
+<head>
+    <title>AJAX Concept</title>
+</head>
+
+<body>
+    <h2>Load Data from text file using AJAX </h2>
+
+    <button onclick="loadtext()">Load text file </button>
+
+    <div id="output" style="margin-top:  20px; 
+        font-weight: bold;"></div>
+
+    <script>
+
+        function loadtext() {
+            var abc = new XMLHttpRequest();
+            abc.open('GET', 'data.txt', true);
+
+            abc.onload = function() {
+                if (abc.status === 200) 
+                {
+                    document.getElementById('output').innerText = abc.responseText;
+                }
+                else 
+                {
+                    document.getElementById('output').innerText = 'Error in loading file'
+                }
+
+                abc.onerror = function () 
+                {
+                    document.getElementById('output').innerText = 'Request failed'
+                }
+            }
+            abc.send();
+        }
+    </script>
+</body>
+</html>
