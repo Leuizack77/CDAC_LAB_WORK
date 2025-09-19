@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Multi-line Text on Click</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    #message {
+      font-size: 18px;
+      color: #333;
+      cursor: pointer;
+      padding: 10px;
+      background-color: #f0f0f0;
+      width: fit-content;
+    }
+  </style>
+</head>
+<body>
+
+  <p id="message">My Laptop Specs</p>
+
+  <script>
+    $('#message').click(function() {
+      let lines = [
+        "RTX 3060 Ti",
+        "ASUS ROG STRIX G15",
+        "INTEL CORE I7 12th GEN"
+      ];
+      
+      $(this).html(lines.join('<br>'));
+    });
+  </script>
+
+</body>
+</html>

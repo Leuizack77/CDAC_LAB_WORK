@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Ad Fade Example</title>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <style>
+    #adBox {
+      display: none;
+      width: 300px;
+      padding: 20px;
+      background-color: #ffeeba;
+      border: 2px solid #f0ad4e;
+      font-family: Arial, sans-serif;
+      font-size: 18px;
+      color: #333;
+      margin: 50px auto;
+      text-align: center;
+      border-radius: 8px;
+    }
+
+    #disappear {
+      display: block;
+      margin: 20px auto;
+      padding: 10px 20px;
+      font-size: 16px;
+      background-color: #d9534f;
+      color: white;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    #disappear:hover {
+      background-color: #c9302c;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="adBox">
+    Flat 70% Off On All Products!!!
+  </div>
+
+  <button id="disappear">Disappear</button>
+
+  <script>
+    $(document).ready(function() {
+      $('#adBox').fadeIn(1000); 
+
+      $('#disappear').click(function() {
+        $('#adBox').fadeOut(1000); 
+      });
+    });
+  </script>
+
+</body>
+</html>
