@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>CLICK COUNTER</title>
+  <style>
+    #myButton:disabled {
+      background-color: grey;
+      color: white;
+      cursor: not-allowed;
+    }
+  </style>
+</head>
+<body>
+
+  <button id="myButton">CLICK ME</button>
+  <p id="clickCount">Clicked 0 times</p>
+
+  <script>
+    let count = 0;
+    const button = document.getElementById("myButton");
+    const display = document.getElementById("clickCount");
+
+    button.addEventListener("click", () => {
+      count++;
+      display.textContent = `Clicked ${count} ${count === 1 ? 'time' : 'times'}`;
+
+      if (count >= 10) {
+        button.disabled = true;
+      }
+    });
+  </script>
+
+</body>
+</html> 

@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TimerExample</title>
+</head>
+<body>
+    <h1>TIMER</h1>
+    <div id="timer">0</div>
+
+    <script>
+        let seconds = 0;
+
+        function updateTimer()
+        {
+            seconds++;
+            document.getElementById('timer').textContent = seconds;
+        }
+
+        setInterval(updateTimer, 1000); // update every 1000ms = 1 second
+    </script>
+</body>
+</html>
