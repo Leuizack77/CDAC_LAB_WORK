@@ -1,0 +1,46 @@
+input {
+    color: darkblue;
+    background-color: #e6f0ff;
+    font-style: italic;
+    border: 2px solid blue;
+}
+
+p {
+    color: darkgreen;
+    background-color: #f0fff0;
+    font-style: normal;
+    border: 1px dashed green;
+    padding: 10px;
+}
+
+select {
+    color: maroon;
+    background-color: #fff0f5;
+    font-style: oblique;
+    border: 2px dotted maroon;
+    padding: 5px;
+}
+
+.moderate {
+    color: #333;
+    background-color: #f9f9f9;
+    font-style: normal;
+    border: 2px solid #ccc;
+    padding: 10px;
+}
+
+.c1 {
+    color: #fff;
+    background-color: #615d61;
+    font-style: italic;
+    border: 4px double yellow;
+    padding: 10px;
+}
+
+#id1 {
+    color: white;
+    background-color: black;
+    font-style: oblique;
+    border: 3px groove white;
+    padding: 10px;
+}
