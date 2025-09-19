@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>jQuery $.get() Demo</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+
+    <button id="getBtn">Get Data</button>
+    <div id="resultArea">Waiting for data...</div>
+
+    <script>
+        $("#getBtn").click(function() {
+            $.get("data.json", function(response) {
+                $("#resultArea").html("Name: " + response.name + "<br>Age: " + response.age);
+            });
+        });
+    </script>
+
+</body>
+</html>
