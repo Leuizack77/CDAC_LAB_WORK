@@ -1,0 +1,34 @@
+//HOW to assign a function to a variable 
+let s = "Hello";  // global  char array  
+s[0] = "h";
+
+console.log(s);
+
+s = "Data";
+console.log(s);
+
+
+
+
+function f1() {
+    let a = "data";  // local 
+    console.log("f1 runs " + a);
+    a = "A";
+}
+
+function f2() {
+    var a = "data";
+    console.log("f1 runs");
+    var a = "data3";
+}
+
+function add(a1, a2, a3, a4) {
+    console.log("addition  " + (a1 + a2 + a3 + a4));
+}
+add(1, 2);
+add(2, 3, 4, 5);
+
+
+
+
+
