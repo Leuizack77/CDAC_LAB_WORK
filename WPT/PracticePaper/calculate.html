@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculate Table</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+        }
+        td {
+            padding: 8px 12px;
+            border: 1px solid #333;
+        }
+    </style>
+    <script>
+        function generateTable() {
+            const input = document.getElementById("numberInput").value;
+            const output = document.getElementById("output");
+            output.innerHTML = "";
+
+            if (input.trim() === "") {
+                alert("Please enter a value.");
+                return;
+            }
+
+            const num = Number(input);
+            if (isNaN(num)) {
+                alert("Please enter a valid number.");
+                return;
+            }
+
+            let tableHTML = "<table>";
+            for (let i = 1; i <= 10; i++) {
+                tableHTML += `<tr><td>${num} x ${i}</td><td>${num * i}</td></tr>`;
+            }
+            tableHTML += "</table>";
+            output.innerHTML = tableHTML;
+        }
+    </script>
+</head>
+<body>
+    <h1>Table Generator</h1>
+    <input type="text" id="numberInput" placeholder="Enter a number">
+    <button onclick="generateTable()">Generate Table</button>
+    <div id="output"></div>
+</body>
+</html>

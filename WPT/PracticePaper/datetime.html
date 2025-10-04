@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <title>Date and Time</title>
+ 
+</head>
+
+<body onload="DateTime()">
+    <div id="datetime"></div>
+
+    <script>
+        function DateTime() 
+        {
+            const now = new Date();
+            document.getElementById("datetime").innerText = now.toLocaleString();
+        }
+        setInterval(DateTime, 1000);
+    </script>
+
+</body>
+</html>
