@@ -1,8 +1,9 @@
-package com.QuickSort.search;
+package com.QuickSort.sorting;
 
 import java.util.Arrays;
 
 public class QuickSortAlgorithm {
+
 	private static int partition(int[] arr, int start, int end) {
 		int pivot=start;
 		int i=start;
@@ -42,7 +43,5 @@ public class QuickSortAlgorithm {
 			
 		}
 	}
-
 	
-
 }
