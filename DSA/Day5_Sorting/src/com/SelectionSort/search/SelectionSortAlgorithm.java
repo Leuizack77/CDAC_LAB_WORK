@@ -1,9 +1,9 @@
-package com.SelectionSort.search;
+package com.SelectionSort.sorting;
 
 import java.util.Arrays;
 
 public class SelectionSortAlgorithm {
-	
+
 	private static int findNthMin(int[] arr, int start) {
 		int minpos=start;
 		int min=arr[minpos];
@@ -17,9 +17,10 @@ public class SelectionSortAlgorithm {
 		return minpos;
 	}
 	
+	//Ascending
 	public static void selectionSortAscending(int[] arr) {
 		for(int i=0;i<arr.length-1;i++) {
-			//find the position of i th min number
+			//find the position of ith min number
 			int minpos=findNthMin(arr,i);
 			//swap minimum value with ith position
 			int temp=arr[i];
@@ -44,6 +45,7 @@ public class SelectionSortAlgorithm {
 		return maxpos;
 	}
 	
+	//Descending
 	public static void selectionSortDescending(int[] arr) {
 		for(int i=0;i<arr.length-1;i++) {
 			//find the position of i th min number
