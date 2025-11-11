@@ -89,4 +89,59 @@ public class MyGraph
 		}
 	
 	}
+
+
+	//bfs traversal
+		public void bfsTraversal(int start) 
+		{
+			
+			System.out.println("BFS Traversal");
+			
+			//create a visited array of size = number of vertices
+			boolean[] visited=new boolean[graph.length];
+			
+			//initialize all values to false
+			for(int i=0;i<graph.length;i++) 
+			{
+				visited[i]=false;
+			}
+			
+			MyQueueList st = new MyQueueList();
+			
+			st.enQueue(start);
+			
+			String bfs="";
+			
+			while(!st.isEmpty()) 
+			{
+				int v=st.deQueue();
+				
+				if(!visited[v]) {  //visited[v]==false
+					bfs+=v+",";
+					visited[v]=true;
+					//get all adjescent nodes of v
+					int[] arr=new int[graph.length];
+					
+					for(int i=0;i<graph.length;i++) 
+					{
+						arr[i]=-1;
+					}
+					
+					graph[v].getAdjescentNodes(arr);
+					for(int i=0;i<graph.length;i++) 
+					{
+						
+						if(arr[i]!=-1 && !visited[arr[i]]) 
+						{
+							st.enQueue(arr[i]);
+						}
+					}
+					//System.out.println(st.displaydata());
+					//System.out.println("==================");
+			}
+			System.out.println(bfs);	
+			}
+		
+		}
+
 }
