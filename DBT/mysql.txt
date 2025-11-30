@@ -2,3 +2,6 @@ mysql --host=192.168.10.117 --port=3306 --user=dac1 --password=welcome
 
 
 MY LAPTOP PASSWORD : ABHI@7777
+
+
+mysql --host=127.0.0.1 --port=3306 --user=root --password=ABHI@7777
