@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\bin\Debug\net8.0\Demo_DataTypes.exe
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\bin\Debug\net8.0\Demo_DataTypes.deps.json
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\bin\Debug\net8.0\Demo_DataTypes.runtimeconfig.json
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\bin\Debug\net8.0\Demo_DataTypes.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\bin\Debug\net8.0\Demo_DataTypes.pdb
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\obj\Debug\net8.0\Demo_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\obj\Debug\net8.0\Demo_DataTypes.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\obj\Debug\net8.0\Demo_DataTypes.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\obj\Debug\net8.0\Demo_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\obj\Debug\net8.0\Demo_DataTypes.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\obj\Debug\net8.0\refint\Demo_DataTypes.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\obj\Debug\net8.0\Demo_DataTypes.pdb
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\obj\Debug\net8.0\Demo_DataTypes.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_DataTypes\obj\Debug\net8.0\ref\Demo_DataTypes.dll

@@ -1,0 +1,5 @@
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_StoredProcedures\obj\Debug\net8.0\Demo_StoredProcedures.csproj.AssemblyReference.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_StoredProcedures\obj\Debug\net8.0\Demo_StoredProcedures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_StoredProcedures\obj\Debug\net8.0\Demo_StoredProcedures.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_StoredProcedures\obj\Debug\net8.0\Demo_StoredProcedures.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_StoredProcedures\obj\Debug\net8.0\Demo_StoredProcedures.csproj.CoreCompileInputs.cache

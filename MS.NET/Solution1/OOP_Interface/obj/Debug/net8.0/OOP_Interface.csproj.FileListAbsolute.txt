@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\OOP_Interface\obj\Debug\net8.0\OOP_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\OOP_Interface\obj\Debug\net8.0\OOP_Interface.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\OOP_Interface\obj\Debug\net8.0\OOP_Interface.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\OOP_Interface\obj\Debug\net8.0\OOP_Interface.csproj.CoreCompileInputs.cache

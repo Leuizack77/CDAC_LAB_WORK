@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\bin\Debug\net8.0\Demo_LINQ.exe
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\bin\Debug\net8.0\Demo_LINQ.deps.json
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\bin\Debug\net8.0\Demo_LINQ.runtimeconfig.json
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\bin\Debug\net8.0\Demo_LINQ.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\bin\Debug\net8.0\Demo_LINQ.pdb
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\obj\Debug\net8.0\Demo_LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\obj\Debug\net8.0\Demo_LINQ.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\obj\Debug\net8.0\Demo_LINQ.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\obj\Debug\net8.0\Demo_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\obj\Debug\net8.0\Demo_LINQ.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\obj\Debug\net8.0\refint\Demo_LINQ.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\obj\Debug\net8.0\Demo_LINQ.pdb
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\obj\Debug\net8.0\Demo_LINQ.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ\obj\Debug\net8.0\ref\Demo_LINQ.dll

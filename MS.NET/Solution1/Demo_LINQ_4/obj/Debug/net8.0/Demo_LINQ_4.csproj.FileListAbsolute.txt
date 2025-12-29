@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\bin\Debug\net8.0\Demo_LINQ_4.exe
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\bin\Debug\net8.0\Demo_LINQ_4.deps.json
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\bin\Debug\net8.0\Demo_LINQ_4.runtimeconfig.json
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\bin\Debug\net8.0\Demo_LINQ_4.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\bin\Debug\net8.0\Demo_LINQ_4.pdb
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\obj\Debug\net8.0\Demo_LINQ_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\obj\Debug\net8.0\Demo_LINQ_4.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\obj\Debug\net8.0\Demo_LINQ_4.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\obj\Debug\net8.0\Demo_LINQ_4.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\obj\Debug\net8.0\Demo_LINQ_4.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\obj\Debug\net8.0\refint\Demo_LINQ_4.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\obj\Debug\net8.0\Demo_LINQ_4.pdb
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\obj\Debug\net8.0\Demo_LINQ_4.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_LINQ_4\obj\Debug\net8.0\ref\Demo_LINQ_4.dll

@@ -1,0 +1,14 @@
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\bin\Debug\net8.0\Demo_FileIO.exe
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\bin\Debug\net8.0\Demo_FileIO.deps.json
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\bin\Debug\net8.0\Demo_FileIO.runtimeconfig.json
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\bin\Debug\net8.0\Demo_FileIO.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\bin\Debug\net8.0\Demo_FileIO.pdb
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\obj\Debug\net8.0\Demo_FileIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\obj\Debug\net8.0\Demo_FileIO.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\obj\Debug\net8.0\Demo_FileIO.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\obj\Debug\net8.0\Demo_FileIO.csproj.CoreCompileInputs.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\obj\Debug\net8.0\Demo_FileIO.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\obj\Debug\net8.0\refint\Demo_FileIO.dll
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\obj\Debug\net8.0\Demo_FileIO.pdb
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\obj\Debug\net8.0\Demo_FileIO.genruntimeconfig.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_FileIO\obj\Debug\net8.0\ref\Demo_FileIO.dll

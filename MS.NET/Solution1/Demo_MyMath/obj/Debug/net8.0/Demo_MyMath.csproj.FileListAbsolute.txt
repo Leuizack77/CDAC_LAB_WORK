@@ -1,0 +1,4 @@
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_MyMath\obj\Debug\net8.0\Demo_MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_MyMath\obj\Debug\net8.0\Demo_MyMath.AssemblyInfoInputs.cache
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_MyMath\obj\Debug\net8.0\Demo_MyMath.AssemblyInfo.cs
+C:\Users\IET\Desktop\250845920004\MS.NET\Solution1\Demo_MyMath\obj\Debug\net8.0\Demo_MyMath.csproj.CoreCompileInputs.cache
